@@ -87,6 +87,12 @@ This case study demonstrates:
 
 SolPro is designed as a premium, data-forward real estate operating system: clean dashboards, restrained luxury branding, high-signal CRM views, and buyer-facing property pages.
 
+### Public Portal Preview
+
+![Axxis Realty public portal preview](assets/axxis-realty-public-portal.png)
+
+Note: the interface preview uses the name `Axxis Realty` because the visual brand was being renamed and prepared for a production launch. `SolPro Platform` remains the project and case study name for this portfolio repository.
+
 Example property imagery used in the product direction:
 
 ![Villa Santa Teresa](assets/villa-santa-teresa.jpg)
